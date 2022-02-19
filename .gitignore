@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#csv files
+data_dsmarket
+
+#DS_Store
+.DS_Store
