@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 #csv files
-data_dsmarket
+datasets
 
 #DS_Store
 .DS_Store
